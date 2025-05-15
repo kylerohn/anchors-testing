@@ -1,0 +1,11 @@
+y_true,y_pred,precision,coverage,a0,a1,a2,a3
+1,1,0.5022805017103763,0.3436,fixed_acidity <= 13.12,alcohol <= 12.60,residual_sugar > 4.10,density > 0.99
+1,1,0.4530722484807562,0.2895,fixed_acidity <= 13.12,alcohol <= 11.00,density > 0.99,
+1,1,0.4827850038255547,0.2892,alcohol <= 12.60,fixed_acidity <= 13.12,density <= 1.00,
+0,1,0.449438202247191,0.2765,fixed_acidity <= 13.12,alcohol <= 12.60,density <= 1.00,
+1,1,0.4343807763401109,0.2714,alcohol <= 11.00,fixed_acidity > 7.10,density > 0.99,
+1,0,0.5362173038229376,0.271,9.50 < alcohol <= 12.60,residual_sugar <= 7.55,,
+2,2,0.4892162019989479,0.2492,residual_sugar > 11.50,,,
+1,0,0.5675482487491065,0.2465,alcohol > 11.00,residual_sugar <= 7.55,,
+1,1,0.5223188405797101,0.2325,alcohol <= 11.00,residual_sugar > 4.10,fixed_acidity <= 13.12,density > 0.99
+0,0,0.555667001003009,0.1964,9.50 < alcohol <= 12.60,residual_sugar <= 7.55,density > 0.99,
